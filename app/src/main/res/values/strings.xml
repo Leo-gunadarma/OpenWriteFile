@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FileSave</string>
+    <string name="tombol_simpan">Simpan</string>
+    <string name="tombol_load">Tampilkan</string>
+</resources>
